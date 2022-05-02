@@ -1,0 +1,25 @@
+#header {
+    background: #5A020C;
+    color: #fff;
+}
+
+#head {
+    color: bisque !important;
+}
+
+.module h2,
+.module caption,
+.inline-group h2,
+div.breadcrumbs {
+    background: #801723 !important;
+    color: #fff !important;
+}
+
+.button,
+input[type=submit],
+input[type=button],
+.submit-row input,
+a.button {
+    background: #8a1d2a !important;
+    color: #fff !important;
+}
